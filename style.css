@@ -1,3 +1,17 @@
-h1{
-    color:blue;
+h1, h3, ul, ol{
+    font-family: 'Secular One', sans-serif;
+}
+
+p{
+    font-family: 'Cantata One', serif;
+    font-weight: 500
+    color #060e0D;
+}
+
+body{
+    background: #EEF7FC;
+}
+
+ul, ol{
+    background:#67A1E0;
 }
